@@ -1,7 +1,10 @@
-# Sniki
+# Sniki ALPHA
 
 Sniki is a group of themes for mediawiki, optimized to be light and low on fluffy bits.  
 Sniki is also a fork of mediawiki, which is lighter and faster than standard installations.
+
+## Wait, "Alpha?"
+Yup, Alpha. This is a work-in-progress. It's stable *now* BUT will have annoying bugs as things progress further.
 
 ## So what's the deal?
 
@@ -15,7 +18,6 @@ By trimming the fat and reducing features in the base wiki software, we can less
 * IP Logging (there is no banhammer)
 * Most languages (languages can be re-added and changed by administrators)
 * API support
-
 
 ## License / Copyright
 
