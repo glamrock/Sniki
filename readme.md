@@ -19,6 +19,6 @@ By trimming the fat and reducing features in the base wiki software, we can less
 
 ## License / Copyright
 
-Copyright (c) 2011 Griffin Boyce. Released under Creative Commons Share-Alike + Attribution.
+Hacked to bits by Griffin Boyce. Released under Creative Commons Share-Alike + Attribution.
 
 MediaWiki is a collaborative project released under the GNU General Public License v2. See `mediawiki_license.txt` for full details.
