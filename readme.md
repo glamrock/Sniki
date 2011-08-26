@@ -11,10 +11,10 @@ By trimming the fat and reducing features in the base wiki software, we can less
 
 ## Features on the chopping block
 
-*Image Upload
-*IP Logging (there is no banhammer)
-*Most languages (languages can be re-added and changed by administrators)
-*API support
+* Image Upload
+* IP Logging (there is no banhammer)
+* Most languages (languages can be re-added and changed by administrators)
+* API support
 
 
 ## License / Copyright
